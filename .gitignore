@@ -1,0 +1,5 @@
+#Not tracking the dataset
+MW.txt
+
+#Ignoring the checkpoints
+.ipynb_checkpoints
