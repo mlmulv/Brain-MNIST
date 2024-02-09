@@ -3,3 +3,6 @@ MW.txt
 
 #Ignoring the checkpoints
 .ipynb_checkpoints
+
+#Don't track the figures
+figures/
